@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>生日快乐</title>
+      <link href="/2021/08/25/blog-open-source/"/>
+      <url>/2021/08/25/blog-open-source/</url>
+      
+        <content type="html"><![CDATA[<h1 id="祝福"><a href="#祝福" class="headerlink" title="祝福"></a>祝福</h1><p>这个网站，这篇文章是送给楷文同志的生日祝福，没能在生日当天送到，跟你说声对不起。<br>但祝我的楷文同志，愿你每一岁都奔走在自己的热爱里，按时长大。</p><hr><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 小谭的生日祝福 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生日祝福 </tag>
+            
+            <tag> 18岁 </tag>
+            
+            <tag> 楷文 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
